@@ -13,14 +13,19 @@ HTML, CSS, Bootstrap, Vanilla Java Script , Java languge, DSA.
 
 ## Table of contents
 
-- Overview
-   - [The challenge]
-   - [Screenshot]
-   - [Links]
+- [Overview](#overview)
+   - [The challenge](#the-challenge)
+   - [Screenshot](#screenshots)
+   - [Links](#links)
 
-- My process
+- [Author](#author)
 
-- [Author](#authors)
+
+# Overview
+
+## The challenge
+
+- My challenge was to build out this Tip Calculator is that i have to think validation.
 
 ## Screenshots
 
