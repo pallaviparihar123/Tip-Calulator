@@ -24,15 +24,15 @@ HTML, CSS, Bootstrap, Vanilla Java Script , Java languge, DSA.
 
 ## Screenshots
 
-![Desktop view](desktop-preview.jpg)
-![mobile view](mobile-design.jpg)
+![Desktop view](https://papaya-daifuku-a522a6.netlify.app/)
+![mobile view](https://papaya-daifuku-a522a6.netlify.app/)
 
 
 ## Links
 
 -Solution URL: @(https://github.com/pallaviparihar123/Important-HTML-and-CSS-Level-2-Project-March-22-Batch---HTML-and-CSS-Level-2---4fksniomdeef/tree/master)
 
--Live Site URL: @(https://precious-melomakarona-544448.netlify.app/)
+-Live Site URL: @(https://papaya-daifuku-a522a6.netlify.app/)
 ## Author
 
 - GitHub link - [@PallaviParihar](https://www.github.com/pallaviparihar123)
