@@ -30,7 +30,7 @@ HTML, CSS, Bootstrap, Vanilla Java Script , Java languge, DSA.
 
 ## Links
 
--Solution URL: @(https://github.com/pallaviparihar123/Important-HTML-and-CSS-Level-2-Project-March-22-Batch---HTML-and-CSS-Level-2---4fksniomdeef/tree/master)
+-Solution URL: @(https://github.com/pallaviparihar123/Tip-Calulator)
 
 -Live Site URL: @(https://papaya-daifuku-a522a6.netlify.app/)
 ## Author
