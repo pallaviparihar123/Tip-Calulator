@@ -24,8 +24,9 @@ HTML, CSS, Bootstrap, Vanilla Java Script , Java languge, DSA.
 
 ## Screenshots
 
-![Desktop view](https://papaya-daifuku-a522a6.netlify.app/)
-![mobile view](https://papaya-daifuku-a522a6.netlify.app/)
+![Desktop view](Des_size_img.png)
+
+![mobile view](Mobile_view.png)
 
 
 ## Links
