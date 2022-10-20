@@ -1,97 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
 *{
     margin: 0;
     padding: 0;
-}
-body {
-    background-color: #fff;
-    color: #000;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-#container {
-    width: 400px;
-    margin: 40px auto 0;
-    padding: 50px;
-    background-color: rgba(7, 7, 7, 0.3);
-    box-shadow: 0 10px 15px-8px #121212;
-    border-radius: 5px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    text-align: center;
     box-sizing: border-box;
 }
-
-h1 {
-    margin: 0 0 20px 20px;
-    padding: 0 0 20px;
-    border-bottom: solid 1px #ddd;
-}
-
-form {
-    text-align: left;
-}
-
-form label {
-    display: block;
-    margin: 30px 0 0;
-    font-weight: bold;
-}
-
-form input,
-form select {
-    padding: 8px;
-    margin: 10px 0 0;
-}
-
-form input[type="text"] {
-    width: 90px;
-}
-
-button {
-    background: #2b7beb;
-    color: #eee;
-    border: solid 1px #666;
-    border-top: none;
-    border-bottom: solid 4px #666;
-    text-transform: uppercase;
-    font-size: 18px;
-    padding: 20px 30px;
-    width: 100%;
-    outline: #2b7beb;
-    margin-top: 30px;
-}
-
-button:hover {
-    background: #2b7beb;
-    border-bottom-color: #777;
-    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
-}
-
-button:active {
+body{
+    font-family: 'Redressed', cursive;
+    height: 100vh;
+    background-color: #0f0f0f0e;
+    font-size: 22px;
     position: relative;
-    top: 1px;
 }
-
-#totalTip {
-    font-size: 50px;
-    margin-top: 40px;
+.container{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 450px;
+    background-color: #FFF;
+    border-radius: 18px;
+    text-align: center;
+    box-shadow: 1px 1px 13px rgb(0 0 0 / 10%);
 }
-
-#totalTip:before {
-    content: "Tip amount";
-    text-transform: uppercase;
+h1{
+    background-color: #9fb3d8;
+    padding: 10px 0;
+    font-size: 28px;
+    border-radius: 18px;
 }
-
-#totalTip sup {
-    font-size: 24px;
-    top: -18px;
+p{
+    color: #7e7e7e;
 }
-
-#totalTip small,
-#totalTip:before {
-    font-size: 14px;
-    font-weight: bold;
-    display: block;
+.control{
+    margin: 25px 0;
+}
+input{
+    border: none;
+    outline: none;
+    text-align: center;
+    border-bottom: 1px solid #345491;
+    color: #345491;
+    font-size: 28px;
+    margin-top: 20px;
+}
+select{
+    border: none;
+    outline: none;
+    border: 1px solid #345491;
+    color: #7e7e7e;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 11px 34px;
+    border-radius: 25px;
+    width: 75%;
+}
+button#calculate{
+    color: white;
+    background: #345491;
+    border: 1px solid transparent;
+    font-size: 17px;
+    border-radius: 25px;
+    padding: 14px 29px;
+    margin: 25px;
+    transition: all .3s ease;
+}
+button#calculate:hover{
+    color: #345491;
+    border-color: #345491;
+    background: white;
+}
+.totalTip{
+    background-color: #9fb3d8;
+    border-radius: 18px;
+    padding: 25px 0 35px;
+}
+.totalTip p{
+    color: #0f0f0f;
+}
+p.tip{
+    font-size: 38px;
+    color: #28467c;
+    margin-top: 10px;
+}
