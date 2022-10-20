@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 body{
-    font-family: 'Redressed', cursive;
+    font-family: 'Great Vibes', cursive;
     height: 100vh;
     background-color: #0f0f0f0e;
     font-size: 22px;
