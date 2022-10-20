@@ -31,7 +31,7 @@ HTML, CSS, Bootstrap, Vanilla Java Script , Java languge, DSA.
 
 ![Desktop view](Des_size_img.png)
 
-![mobile view](Mobile_view.png)
+![mobile view](mobile_view.png)
 
 
 ## Links
